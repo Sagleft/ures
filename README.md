@@ -9,3 +9,7 @@
 <a href="https://crp.is">
   <img align="center" width="200" src="https://github.com/Sagleft/ures/blob/master/crp_is.png?raw=true">
 </a>
+
+<a href="https://talk.u.is">
+  <img align="center" width="200" src="https://github.com/Sagleft/ures/blob/master/utalk.png?raw=true">
+</a>
